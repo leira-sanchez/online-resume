@@ -10,6 +10,11 @@
 - Collaborate within a team using an **Agile** development workflow and collaboration practices in **Git & Github**
 
 ______
+#### Associate Software Engineer in Training @ [Capital One](http://capitalone.com) *(Feb 2019 - present)*
+
+- Learned to develop full-stack applications using Software Engineering best practices during an intensive 6-month internal [bootcamp](https://www.capitalone.com/tech/culture/my-journey-through-capital-one-developer-academy/)
+
+______
 
 ### Markdown
 
