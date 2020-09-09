@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+# Leira C Sánchez Quiñones
+[Contact Me](mailto:leiracodes@gmail.com) | [LinkedIn](https://www.linkedin.com/in/leirasanchez/) | [Twitter](https://twitter.com/MechEngSanchez) | [Website](http://leirasanchez.com) | [Github](https://github.com/leira-sanchez/) | [DEV](https://dev.to/leirasanchez)
 
-You can use the [editor on GitHub](https://github.com/leira-sanchez/online-resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Experience
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Associate Software Engineer @ [Capital One](http://capitalone.com) *(Feb 2019 - present)*
+
+- Design and develop an internal full-stack web application for templating emails using **NodeJS**, **React**, **Express.js**, and **PostgreSQL**, which has saved the company over **$4.76MM**
+- Engage stakeholders to anticipate customer needs and rapidly prototype solutions
+- Collaborate within a team using an **Agile** development workflow and collaboration practices in **Git & Github**
+
+______
 
 ### Markdown
 
