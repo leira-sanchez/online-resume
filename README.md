@@ -3,7 +3,7 @@
 
 # Experience
 
-## Associate Software Engineer @ [Capital One](http://capitalone.com) *(Feb 2019 - present)*
+### Associate Software Engineer @ [Capital One](http://capitalone.com) *(Feb 2019 - present)*
 
 - Design and develop an internal full-stack web application for templating emails using **NodeJS**, **React**, **Express.js**, and **PostgreSQL**, which has saved the company over **$4.76MM**
 - Engage stakeholders to anticipate customer needs and rapidly prototype solutions
