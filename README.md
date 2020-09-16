@@ -1,14 +1,14 @@
-#
+
 [Contact Me](mailto:leiracodes@gmail.com) | [LinkedIn](https://www.linkedin.com/in/leirasanchez/) | [Twitter](https://twitter.com/MechEngSanchez) | [Website](http://leirasanchez.com) | [GitHub](https://github.com/leira-sanchez/) | [DEV](https://dev.to/leirasanchez)
 
 ## Experience
 
 ### [Capital One](http://capitalone.com)
-#### Associate Software Engineer *(Feb 2019 - present)*
+#### Associate Software Engineer *(Aug 2019 - present)*
 
-- Design and develop an internal full-stack web application for templating emails using **NodeJS**, **React**, **Express.js**, and **PostgreSQL**, which has saved the company over **$4.76MM**
-- Engage stakeholders to anticipate customer needs and rapidly prototype solutions
-- Collaborate within a team using an **Agile** development workflow and collaboration practices in **Git & Github**
+- Designed and developed an internal full-stack web application for templating emails using **NodeJS**, **React**, **Express.js**, and **PostgreSQL**, which has saved the company over **$4.76MM**
+- Engaged stakeholders to anticipate customer needs and rapidly prototype solutions
+- Collaborated within a team using an **Agile** development workflow and collaboration practices in **Git & Github**
 
 
 #### Associate Software Engineer in Training @ _(Feb 2019 - present)_
