@@ -11,7 +11,7 @@
 ### [Capital One](http://capitalone.com)
 #### Associate Software Engineer _(Aug 2019 - present)_
 
-- Designed and developed an internal full-stack web application for templating emails using **NodeJS**, **React**, **Express.js**, and **PostgreSQL**, which has saved the company over **$4.76MM**
+- Designed and developed an internal full-stack web application for templating emails using **NodeJS**, **React**, **Express.js**, and **PostgreSQL**, which has saved the company over **$8.4MM**
 - Engaged stakeholders to anticipate customer needs and rapidly prototype solutions
 - Collaborated within a team using an **Agile** development workflow and collaboration practices in **Git & Github**
 
@@ -49,26 +49,34 @@ ______
 - Recommended a pump and motor replacement that would save 29 % annually in energy costs
 
 ## RESEARCH & PROJECTS
-#### Human-Centered Design R&D Lab – Design Thinking & Virtual and Augmented Reality _(August 2017 – December 2018)_
+### [DC iOS Meetup](https://devcommunity.org/#/)
+#### Co-Organizer _(January 2020 – present)_
+- Created a community of iOS developers in the DMV area by facilitating speakers from a variety of backgrounds
+
+### [Human-Centered Design R&D Lab](http://academic.uprm.edu/jose.lugo2/projects.html)
+#### Design Thinking & Virtual and Augmented Reality _(August 2017 – December 2018)_
 - Tested that assembly-training in Virtual Reality with hand-tracking technology is transferable to real world skills
 - Designed and developed an experiment in a VR environment for Oculus Rift using Unity
+
+
 
 ## SKILLS
 #### Programming Languages
  - JavaScript 
  - HTML5/CSS 
- - Python (currently learning)
+ - Python (currently self-teaching)
 
 #### Technologies/Frameworks
 - Node.js
 - React
+- Redux
 - PostgreSQL
 - MySQL
 - MongoDB
 - Express.js
 - iOS Development (beginner)
 - AWS
--  Git
+- Git & GitHub
 - Agile Methodology
 
 #### Human Languages 
